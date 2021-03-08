@@ -1,0 +1,459 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   header section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.header_section{
+
+background-color:#96080d ;
+
+}
+.logo{
+    margin-left: 360px;
+    margin-top: 10px;
+   
+}
+.menu {
+margin-left: 210px;
+    
+}
+.menu ul li{
+
+display: inline-block;
+margin-top: 10px;
+
+}
+.menu ul li a{
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    
+}
+.menu ul li a:hover{
+
+color: red;
+}
+.icon{
+
+margin-left: -250px;
+font-size: 25px;
+margin-top: 8px;
+
+}
+.icon a{
+
+color: white;
+padding: 0px 13px;
+}
+.icon a:hover{
+    color: red;
+}
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   second section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.heading_title{
+
+background-image: url(img/plane.jpg);
+width: 750px;
+height: 400px;
+background-size: cover;
+margin-top: 20px;
+margin-left: 10px;
+
+}
+.heading_title h6{
+margin-top: 10px;
+padding: 5px;
+background-color: black;
+width: 6%;
+
+font-size: 12px;
+color: white;
+}
+.heading_title a{
+    color: white;
+text-decoration: none;
+
+}
+.heading_title a:hover{
+
+color:red;
+
+}
+.heading_title h2{
+margin-top: 250px;
+    
+  
+}
+.heading_title p{
+font-size: 14px;
+    color: white
+}
+
+.article{
+    padding: 5px 40px;
+  
+}
+.article a{
+    color:black;
+  text-decoration: none;
+}
+.article a:hover{
+    color: rgb(187, 3, 3);
+
+}
+.article h6{
+
+padding: 10px;
+border-bottom: 1px solid rgba(188, 188, 196, 0.884);
+
+}
+
+
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   fourth section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.short_news{
+
+    margin-top: 23px;
+}
+.frist{
+
+    width :90%;
+}
+
+.short_news a{
+    font-weight: bold;
+text-decoration: none;
+color: black;
+
+}
+.short_news a:hover{
+    color: rgb(187, 3, 3);
+}
+.second{
+    width :90%;
+}
+
+.third a{
+    text-decoration: none;
+    color: black;
+}
+.third a:hover{
+
+    color: rgb(187, 3, 3);
+}
+.third h4{
+    font-size: 19px;
+    font-weight: bold;
+border-bottom: 1px solid rgb(225, 225, 228);
+}
+.third h5{
+font-weight: bold;
+}
+.third h6 {
+    line-height: 25px;
+padding: 10px 0px;;
+border-bottom: 1px solid rgb(225, 225, 228);
+
+}
+.third p{
+    font-size: 14px;
+}
+.third{
+    padding: 25px 0px;
+    width :89%;
+}
+.content_sm h4{
+    font-size: 19px;
+    font-weight: 600;
+}
+.content_sm a{
+
+text-decoration: none;
+color: black;
+
+}
+.content_sm a:hover{
+    color: brown;
+}
+.content_sm{
+border-bottom: 1px solid rgb(225, 225, 228);
+   width :90%;
+   margin-top: 30px;
+}
+.two{
+    text-align: right;
+    color: black;
+}
+.social_media{
+  
+ width :92%;
+    margin-top: 30px;
+}
+
+.social_media a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.social_media a:hover{
+    color: brown;
+}
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ last section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.inter{
+    border-bottom: 1px solid rgb(225, 225, 228);
+    margin-top: 30px;
+    width: 65%;
+    margin-bottom: 10px;
+
+}
+.inter h4{
+    font-size: 19px;
+    font-weight: 600;
+}
+.three{
+margin-left: 300px;
+}
+.inter a{
+    text-decoration: none;
+    color: black;
+    
+}
+.inter a:hover{
+color: brown;
+}
+.inter_desk h5{
+
+    font-weight: 600;
+
+}
+.inter_desk a{
+
+    text-decoration: none;
+    color: black;
+}
+.inter_desk a:hover{
+color: brown;
+}
+.inter_desk p{
+font-size: 14px;
+}
+
+
+.covid-19{
+    
+}
+.covid-19 h3{
+    background-color:brown ;
+    padding: 10px;
+    width: 85%;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+
+}
+.bd{
+    color: white;
+    float: left;
+    background-color:#006747;
+    padding: 5px 50px;
+   font-size: 17px;
+margin-top: -5px;
+}
+
+.world{
+    color: white;
+    float: left;
+    background-color: red;
+    padding: 5px 71px;
+   font-size: 17px;
+   margin-top: -5px;
+
+  
+}
+.content{
+    float: left;
+}
+.text{
+   margin-left: 60px;
+}
+ .content .number {
+    background: #3d8e75;
+    width: 100%;
+  text-align: center;
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-weight: bold;
+margin-left: 10px;
+color: white;
+font-weight: bold;
+font-size: 20px;
+ }
+
+.content1{
+float: left;
+text-align: right;
+margin-left: 40px;
+}
+
+.text1{
+   margin-left: 60px;
+   text-align: center;
+}
+ .content1 .number1 {
+    background: red;
+    width: 100%;
+  text-align: center;
+    border-radius: 6px;
+    padding: 10px 0px;
+    font-weight: bold;
+margin-left: 40px;
+color: white;
+font-weight: bold;
+font-size: 20px;
+
+ }
+
+.mujib{
+   
+    margin-top: 50px;
+}
+
+.jamela{
+    padding: 20px;
+}
+.jamela a{
+
+    text-decoration: none;
+    color: black;
+}
+.jamela a:hover{
+    color: brown;
+}
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+  mora section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.mujib{
+    margin-top: -120px;
+    
+}
+
+.muj{
+   
+margin-top: 30px;
+  width: 50%;
+}
+
+.mora{
+ margin-top: -350px;
+
+}
+.mora p{
+font-size: 19px;
+}
+.mora2{
+ margin-top: -600px;
+}
+.mora2 p{
+
+font-size: 19px;
+
+}
+.sekh{
+    width: 300px;
+    margin-top:- 400px;}
+.mora3{
+    margin-top: -850px;
+   }
+   .mora3 p{
+   
+   font-size: 19px;
+   
+   }
+.mora4{
+    margin-top: -1100px;
+   }
+   .mora4 p{
+   
+   font-size: 19px;
+   
+   }
+.mora5{
+    margin-top: -1350px;
+   }
+   .mora5 p{
+   
+   font-size: 19px;
+   
+   }
+.mora6{
+    margin-top: -1600px;
+   }
+   .mora6 p{
+   
+   font-size: 19px;
+   
+   }
+.mora7{
+    margin-top: -1850px;
+   }
+   .mora7 p{
+   
+   font-size: 19px;
+   
+   }
+.mora8{
+    margin-top: -2050px;
+   }
+   .mora8 p{
+   
+   font-size: 19px;
+   
+   }
+.mora9{
+    margin-top: -2250px;
+   }
+   .mora9 p{
+   
+   font-size: 19px;
+   
+   }
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ copy section css
+$$$$$$$$$$$$$$$$$$$$$$$$$$*/
+
+.copy{
+
+    padding: 25px 30px;
+  
+}
+.copy p{
+  margin-top: 15px;
+    font-size: 13px;
+    text-align: center;
+}
+.copyright{
+
+    border-top: 1px solid rgb(225, 225, 228);
+}
+
+
